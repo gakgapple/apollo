@@ -1,3 +1,13 @@
+1.新增了全部三个service的sh
+2.新增了dockerfile,其实还可以优化。
+
+实现步骤
+1.修改conf，admin，portal的数据库连接地址
+2.script/build.sh
+3.docker build
+
+
+================================================================================
 ![apollo-logo](apollo-portal/src/main/resources/static/img/logo-detail.png)
 ================
 
